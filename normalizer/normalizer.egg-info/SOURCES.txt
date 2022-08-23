@@ -1,9 +1,0 @@
-setup.py
-normalizer/__init__.py
-normalizer/constants.py
-normalizer/normalizer.py
-normalizer.egg-info/PKG-INFO
-normalizer.egg-info/SOURCES.txt
-normalizer.egg-info/dependency_links.txt
-normalizer.egg-info/not-zip-safe
-normalizer.egg-info/top_level.txt
